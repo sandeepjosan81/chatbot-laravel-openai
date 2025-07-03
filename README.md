@@ -35,7 +35,7 @@ Users can send a message and get instant AI-powered replies using ChatGPT (gpt-3
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-laravel-inertia.git
+git clone https://github.com/sandeepjosan81/chatbot-laravel-inertia.git
 cd chatbot-laravel-inertia
 
 
